@@ -141,8 +141,4 @@ A fuller troubleshooting table is in **Appendix B** of the tutorial.
 
 ---
 
-## Credits
-
-Built for **CoDev Labs × STEMLink** Module 01 — Multi-Agent Foundations, led by Ashan.
-
 Have fun lying to your own agents. 🐺
